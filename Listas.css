@@ -1,0 +1,10 @@
+body{
+    background: rgb(243, 184, 228);
+    margin: 0;
+    padding: 0;
+}
+.Recetas{
+    width: 100%;
+    height: 80px;
+    background: rgb(247, 148, 247);
+}
